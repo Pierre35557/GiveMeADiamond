@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\DiamondWriter\DiamondWriter\bin\Debug\DiamondWriter.exe.config
+C:\Users\georg\source\repos\DiamondWriter\DiamondWriter\bin\Debug\DiamondWriter.exe
+C:\Users\georg\source\repos\DiamondWriter\DiamondWriter\bin\Debug\DiamondWriter.pdb
+C:\Users\georg\source\repos\DiamondWriter\DiamondWriter\obj\Debug\DiamondWriter.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\DiamondWriter\DiamondWriter\obj\Debug\DiamondWriter.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\DiamondWriter\DiamondWriter\obj\Debug\DiamondWriter.exe
+C:\Users\georg\source\repos\DiamondWriter\DiamondWriter\obj\Debug\DiamondWriter.pdb
